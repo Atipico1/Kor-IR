@@ -1,4 +1,4 @@
-<h1 align="center">KorIR: 한국어 검색을 위한 임베딩 벤치마크</h1>
+<h1 align="center">Kor-IR: 한국어 검색을 위한 임베딩 벤치마크</h1>
 
 ## Intro
 
