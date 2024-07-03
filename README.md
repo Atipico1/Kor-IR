@@ -7,7 +7,7 @@
 
 ## Leader Board (last updated on July 3, 2024)
 
-|     | Model                                                  | NDCG@10 | MRR@10 | MAP@10 | Recall@10 | Average | Link                                                                                                |
+|Rank| Model                                                  | NDCG@10 | MRR@10 | MAP@10 | Recall@10 | Average | Link                                                                                                |
 |-----|--------------------------------------------------------|---------|--------|--------|-----------|---------|-----------------------------------------------------------------------------------------------------|
 | 1   | **Upstage/solar-embedding-1-large**                    | 83.61   | 84.14  | 80.35  | 88.35     | 84.11   | [:paperclip:](https://developers.upstage.ai/docs/apis/embeddings)                                    |
 | 2   | **Cohere/embed-multilingual-v3.0**                     | 80.79   | 82.33  | 76.80  | 85.96     | 81.47   | [:paperclip:](https://docs.cohere.com/reference/embed)                                               |
