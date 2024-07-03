@@ -1,4 +1,4 @@
-![image](https://github.com/Atipico1/Kor-IR/assets/100078632/1a3492b7-91df-4eb1-9cc5-5adb92efd1ed)<h1 align="center">Kor-IR: 한국어 검색을 위한 임베딩 벤치마크</h1>
+<h1 align="center">Kor-IR: 한국어 검색을 위한 임베딩 벤치마크</h1>
 
 ## Intro
 
